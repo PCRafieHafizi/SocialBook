@@ -1,0 +1,5 @@
+git clone https://github.com/PCRafieHafizi/mein-projekt.git
+cd mein-projekt
+git add .
+git commit -m "Meine erste Datei hochgeladen"
+git push origin main
